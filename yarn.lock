@@ -654,10 +654,10 @@
     "@babel/helper-plugin-utils" "^7.14.5"
     "@babel/plugin-syntax-partial-application" "^7.14.5"
 
-"@babel/plugin-proposal-pipeline-operator@^7.14.5":
-  version "7.14.5"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-proposal-pipeline-operator/-/plugin-proposal-pipeline-operator-7.14.5.tgz#1e1b24f0542387d0d6a9b8e08fe4db0d8c45bc28"
-  integrity sha512-JahWUHYn1mij/tYte6/wGElJFUIuLGu0Eqiz329QK2yl50aQfL0sRyqGy1GhM+w0R6KWSQ9V6FDewDF2ST/xRA==
+"@babel/plugin-proposal-pipeline-operator@^7.14.8":
+  version "7.14.8"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-proposal-pipeline-operator/-/plugin-proposal-pipeline-operator-7.14.8.tgz#27e2eeb98bbaa5159d64783f56eaaa9304f3b437"
+  integrity sha512-JWJpelV56bW+4rw3QyGTV4efL2NFoT+VH7vV55FyMD4rH8FxsNXuR8SkUOunvOXLcxFpLT2+8v/M0HKrCUIx5g==
   dependencies:
     "@babel/helper-plugin-utils" "^7.14.5"
     "@babel/plugin-syntax-pipeline-operator" "^7.14.5"
@@ -2967,7 +2967,6 @@ babel-preset-proposal-typescript@^2.1.0:
 
 "babel-preset-proposal-typescript@link:.":
   version "0.0.0"
-  uid ""
 
 babylon@^7.0.0-beta.44:
   version "7.0.0-beta.47"
